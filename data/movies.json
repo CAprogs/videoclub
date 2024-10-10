@@ -1,0 +1,5 @@
+[
+    {"title": "Inception", "author": "Christopher Nolan", "year": 2010, "director": "Christopher Nolan", "imdb_score": 8.8},
+    {"title": "The Matrix", "author": "Lilly Wachowski, Lana Wachowski", "year": 1999, "director": "The Wachowskis", "imdb_score": 8.7},
+    {"title": "Interstellar", "author": "Jonathan Nolan", "year": 2014, "director": "Christopher Nolan", "imdb_score": 8.6}
+]
